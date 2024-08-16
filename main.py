@@ -23,6 +23,6 @@ while True:
         new_y=run[i-1].ycor()
         run[i].goto(new_x,new_y)
     run[0].forward(20)
-    run[0].left(90)
+
 
 exitonclick()
